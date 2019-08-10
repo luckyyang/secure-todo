@@ -1,3 +1,5 @@
+Refer to this tutorial: https://dev.to/dkb868/build-a-decentralized-todo-list-with-react-and-blockstack-59cm
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
